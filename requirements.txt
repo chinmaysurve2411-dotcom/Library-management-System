@@ -1,0 +1,2 @@
+all libs used are standard libs of the c++.
+( iostream, vector, string, limits)
